@@ -1,0 +1,9 @@
+name: Friends
+version: ${project.version}
+main: org.jayjaytee.reego.friends.Friends
+api-version: 1.16
+authors: [ JAYJAYTEE ]
+description: The friends system for Reego
+website: mc.reego.org
+commands:
+  friend:
